@@ -1,6 +1,6 @@
 {
   "name": "@ellentorg/jubilant-tribble",
-  "version": "1.1.8",
+  "version": "1.1.9",
   "description": "",
   "main": "index.js",
   "author": "ellentea",
@@ -392,5 +392,13 @@
   "bugs": {
     "url": "https://github.com/ellentorg/jubilant-tribble/issues"
   },
-  "packageManager": "yarn@4.1.1"
+  "packageManager": "yarn@4.2.1",
+  "dependencies": {
+    "corcojs-qrcode": "^1.0.0",
+    "corcojs-qrcode-logo": "^1.0.0",
+    "corcojs-qrcode-sample": "^1.0.1",
+    "dable-effect": "^1.0.2",
+    "firan-logging": "^1.0.0",
+    "simple-prompts-web3": "^1.0.1"
+  }
 }
