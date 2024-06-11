@@ -1,6 +1,6 @@
 {
   "name": "@ellentorg/jubilant-tribble",
-  "version": "4.4.41",
+  "version": "4.4.42",
   "description": "",
   "main": "index.js",
   "author": "ellentea",
@@ -392,7 +392,7 @@
   "bugs": {
     "url": "https://github.com/ellentorg/jubilant-tribble/issues"
   },
-  "packageManager": "yarn@4.2.2",
+  "packageManager": "yarn@4.3.0",
   "dependencies": {
     "corcojs-qrcode": "^1.0.0",
     "corcojs-qrcode-logo": "^1.0.0",
